@@ -1,2 +1,2 @@
 # trocadero.aquilastudio
-SEVER AQUILA
+SERVER AQUILA
